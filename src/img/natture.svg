@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 8.888px;
+        fill: #f6f6f6;
+        font-family: Arial;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #b1c921;
+      }
+
+      .cls-3 {
+        fill: #f7f7f7;
+      }
+    </style>
+  </defs>
+  <text id="Natture" class="cls-1" transform="translate(218.206 447.926) scale(29.878)">Na<tspan class="cls-2">tt<tspan class="cls-3">ure</tspan></tspan></text>
+</svg>
